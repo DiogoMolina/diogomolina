@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo! 😌
 
-- 🔭 Estudando Java
+- 🔭 Estudando Java e C#
 
 <div align="center">
   <a href="https://github.com/diogomolina">
